@@ -1,5 +1,7 @@
 <?php
-
+/***
+ * Untuk memanggil Controller utama
+ */
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -11,7 +13,7 @@ class HalamanDepan extends Controller
     /***
      * 
      * Display a listing of the resource.
-     *
+     * @author @author Fabien Potencier fabien@symfony.com
      * @return \Illuminate\Http\Response
      */
     public function index()
