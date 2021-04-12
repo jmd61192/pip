@@ -15,3 +15,11 @@ use App\Http\Controllers\HalamanDepan;
 
 Route::resource('/', HalamanDepan::class);
 //Route::resource('/', HalamanDepan::class);
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

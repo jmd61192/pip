@@ -1,6 +1,6 @@
 @extends('halamandepan.master')
 <!-- Theme style -->
- <link rel="stylesheet" href="{{ asset('css/adminlte.css') }}">
+<link rel="stylesheet" href="{{ asset('css/adminlte.css') }}">
 @section('content')
 <div class="content" style="margin-top: 20px">
         <div class="container">
@@ -44,11 +44,11 @@
                 <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
-                            <div class="col-sm-3 float-right">
-                                <img src="https://pip.kemdikbud.go.id/img/home/penggunaan.png" alt="untuk apa dana PIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
-                            </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Pemanfaatan Dana PIP</strong></h1>
+                                <h1 style="text-align: left; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Pemanfaatan Dana PIP</strong></h1>
+                            </div>
+                            <div class="col-sm-3 float-right">
+                                <img src="https://pip.kemdikbud.go.id/img/home/penggunaan.png" alt="untuk apa dana PIP" alt="Responsive Image" class="img-fluid float-right" style="max-width: 150px;">
                             </div>
                         </div>
                         <p style="text-align: justify">Dana PIP dapat digunakan untuk membantu biaya pribadi peserta didik, seperti membeli perlengkapan sekolah/kursus, 
@@ -61,11 +61,11 @@
                 <div class="col-lg-12">
                     <div class="callout callout-danger">
                         <div class="row">
-                            <div class="col-sm-3 float-right">
-                                <img src="https://pip.kemdikbud.go.id/img/home/sasaran.png" alt="sasaran" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
-                            </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Prioritas Sasaran Penerima PIP</strong></h1>
+                                <h1 style="text-align: left; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Prioritas Sasaran Penerima PIP</strong></h1>
+                            </div>
+                            <div class="col-sm-3 float-right">
+                                <img src="https://pip.kemdikbud.go.id/img/home/sasaran.png" alt="sasaran" alt="Responsive Image" class="img-fluid float-right" style="max-width: 150px;">
                             </div>
                         </div>
                             <ul style="text-align: left; padding: 0px 0px 0px 15px;">
@@ -105,11 +105,11 @@
                 <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
-                            <div class="col-sm-3 float-right">
-                                <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
-                            </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Bagaimana jika KIP hilang/rusak?</strong></h1>
+                                <h1 style="text-align: left; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Bagaimana jika KIP hilang/rusak?</strong></h1>
+                            </div>
+                            <div class="col-sm-3 float-right">
+                                <img class="img-fluid float-left" src="https://interaktif.tempo.co/proyek/cairkan-dana-kartu-indonesia-pintar/images/11.png" alt="">
                             </div>
                         </div>
                         <p style="text-align: justify">Kartu menjadi tanggung jawab pemilik. Jika KIP hilang/rusak, pemilik kartu dapat segera menghubungi kontak pengaduan PIP.
