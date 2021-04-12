@@ -58,7 +58,8 @@
 						<li><a href="" title="Beranda">Beranda</a></li>							
 						<li><a href="" title="Panduan">Panduan</a></li>
 						<li><a href="" title="Kontak Kami">Kontak Kami</a></li>
-						<li><a href="" title="Tentang Simpen">About</a></li>					
+						<li><a href="" title="Tentang Simpen">About</a></li>
+						<li><a href="{{ route('login') }}">Login</a></li>					
 					</ul>
 				</nav>			
 				</div>
