@@ -15,24 +15,7 @@
                                 <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
                             </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Apa itu PIP?</strong></h1>
-                            </div>
-                        </div>
-                        <p style="text-align: justify">Program Indonesia Pintar (PIP) melalui Kartu Indonesia Pintar <strong>(KIP)</strong>
-                            adalah pemberian bantuan tunai pendidikan kepada anak usia sekolah (usia 6 - 21 tahun) 
-                            yang berasal dari keluarga miskin, rentan miskin: pemilik Kartu Keluarga Sejahtera (KKS),
-                            peserta Program Keluarga Harapan (PKH), yatim piatu, penyandang disabilitas,korban bencana alam/musibah.
-                            PIP merupakan bagian dari penyempurnaan program Bantuan Siswa Miskin (BSM).</p>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="callout callout-danger">
-                        <div class="row">
-                            <div class="col-sm-3 float-right">
-                                <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
-                            </div>
-                            <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Apa tujuan PIP?</strong></h1>
+                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Tujuan PIP</strong></h1>
                             </div>
                         </div>
                         <p style="text-align: justify">PIP dirancang untuk membantu anak-anak usia sekolah dari keluarga miskin/rentan miskin/prioritas tetap mendapatkan layanan 
@@ -43,47 +26,29 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-12">
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
                             <div class="col-sm-3 float-right">
-                                <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
+                                <img src="https://pip.kemdikbud.go.id/img/home/home-left.png" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
                             </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Bagaimana jika siswa miskin belum menerima KIP?</strong></h1>
+                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Program Indonesia Pintar</strong></h1>
                             </div>
                         </div>
-                        <p style="text-align: justify">Siswa dapat mendaftar dengan membawa Kartu Keluarga Sejahtera (KKS) orang tuanya ke lembaga pendidikan terdekat. 
-                            Jika siswa tersebut tidak memiliki KKS, orang tuanya dapat meminta Surat Keterangan Tidak Mampu (SKTM) dari RT/RW dan Kelurahan/Desa 
-                            terlebih dahulu agar dapat melengkapi syarat pendaftaran.
-                        </p>
+                        <p style="text-align: justify">Merupakan bantuan berupa uang tunai, perluasan akses, dan kesempatan belajar dari pemerintah yang diberikan kepada peserta didik dan mahasiswa yang berasal dari keluarga miskin atau rentan miskin untuk membiayai pendidikan melalui Kartu Indonesia Pintar (KIP)</p>
                     </div>
                 </div>
-                <div class="col-lg-12">
+                <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
                             <div class="col-sm-3 float-right">
-                                <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
+                                <img src="https://pip.kemdikbud.go.id/img/home/penggunaan.png" alt="untuk apa dana PIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
                             </div>
                             <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Apa Kewajiban peserta didik penerima dana PIP?</strong></h1>
-                            </div>
-                        </div>
-                            <ol style="text-align: left; padding: 0px 0px 0px 15px;">
-                                <li>Menyimpan dan menjaga KIP dengan baik;</li>
-                                <li>PIP merupakan bantuan pendidikan. Dana Manfaatnya harus digunakan untuk keperluan yang relevan;</li>
-                                <li>Terus belajar dan bersekolah (tidak putus sekolah) dengan rajin, disiplin dan tekun.</li>
-                            </ol>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="callout callout-danger">
-                        <div class="row">
-                            <div class="col-sm-3 float-right">
-                                <img src="{{ asset('images/pelajar.png') }}" alt="kartu KIP" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
-                            </div>
-                            <div class="col-sm-9 float-left">
-                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Untuk apa saja penggunaan dana PIP?</strong></h1>
+                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Pemanfaatan Dana PIP</strong></h1>
                             </div>
                         </div>
                         <p style="text-align: justify">Dana PIP dapat digunakan untuk membantu biaya pribadi peserta didik, seperti membeli perlengkapan sekolah/kursus, 
@@ -91,7 +56,37 @@
                         </p>
                     </div>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-lg-12">
+                    <div class="callout callout-danger">
+                        <div class="row">
+                            <div class="col-sm-3 float-right">
+                                <img src="https://pip.kemdikbud.go.id/img/home/sasaran.png" alt="sasaran" alt="Responsive Image" class="img-fluid float-left" style="max-width: 150px;">
+                            </div>
+                            <div class="col-sm-9 float-left">
+                                <h1 style="text-align: right; padding: 20px 10px 0px 0px; font-style: bold;"><strong>Prioritas Sasaran Penerima PIP</strong></h1>
+                            </div>
+                        </div>
+                            <ul style="text-align: left; padding: 0px 0px 0px 15px;">
+                                <li>Peserta Didik pemegang KIP</li>
+                                <li>Peserta Didik dari keluarga miskin/rentan miskin dan/atau dengan pertimbangan khusus seperti:
+                                    <ul style="text-align: left; padding: 0px 0px 0px 20px;">
+                                        <li>Peserta Didik dari keluarga peserta Program Keluarga Harapan</li>
+                                        <li>Peserta Didik dari keluarga pemegang KartuKeluarga Sejahtera</li>
+                                        <li>Peserta Didik yang berstatus yatimpiatu/yatim/piatu dari sekolah/panti sosial/panti asuhan</li>
+                                        <li>Peserta Didik yang terkena dampak bencana alam</li>
+                                        <li>Peserta Didik yang tidak bersekolah (drop out) yang diharapkan kembali bersekolah</li>
+                                        <li>Peserta Didik yang mengalami kelainan fisik, korban musibah, dari orang tua yang mengalami pemutusan hubungan kerja, di daerah konflik, dari keluarga terpidana, berada di Lembaga Pemasyarakatan, memiliki lebih dari 3 (tiga) saudara yang tinggal serumah</li>
+                                        <li>Peserta pada lembaga kursus atau satuan pendidikan nonformal lainnya</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
                             <div class="col-sm-3 float-right">
@@ -107,7 +102,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-12">
+                <div class="col-lg-6">
                     <div class="callout callout-danger">
                         <div class="row">
                             <div class="col-sm-3 float-right">
@@ -122,7 +117,6 @@
                     </div>
                 </div>
             </div>
-            card
         </div>
     </div>
 </div>
