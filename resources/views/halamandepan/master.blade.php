@@ -60,7 +60,7 @@
 						<li class="nav-item"><a  class="nav-link" href="" title="Kontak Kami">Kontak Kami</a></li>
 						<li class="nav-item"><a  class="nav-link" href="" title="Tentang Simpen">About</a></li>			
 					</ul>
-					 <ul class="menu3" style="float: right;">
+					<ul class="menu3" style="float: right;">
                         <!-- Authentication Links -->
                         @guest
                             @if (Route::has('login'))
@@ -75,9 +75,9 @@
                                 </a>
 
                                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
+                                    <a class="dropdown-item" href="{{ route('logout') }}" 
+									onclick="event.preventDefault();
+									document.getElementById('logout-form').submit();">
                                         {{ __('Logout') }}
                                     </a>
 
